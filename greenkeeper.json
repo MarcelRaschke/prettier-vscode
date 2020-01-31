@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "package.json",
+        "testEslint/package.json",
+        "testProject/formatTest/package.json",
+        "testTslint/package.json"
+      ]
+    }
+  }
+}
