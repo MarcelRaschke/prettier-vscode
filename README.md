@@ -1,5 +1,7 @@
 # Prettier formatter for Visual Studio Code
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MarcelRaschke/prettier-vscode.svg)](https://greenkeeper.io/)
+
 VS Code package to format your JavaScript / TypeScript / CSS using [Prettier](https://github.com/prettier/prettier).
 
 ## Installation
